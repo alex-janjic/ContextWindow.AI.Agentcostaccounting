@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ContextWindow.AI.AgentCostAccounting/ContextWindow.AI.AgentCostAccounting.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ContextWindow.AI.AgentCostAccounting.Tests/ContextWindow.AI.AgentCostAccounting.Tests.csproj" />
+  </Folder>
+</Solution>
